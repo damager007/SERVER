@@ -1,4 +1,3 @@
-$ ls
 my-application		requirements.txt	runtime.txt
 $ git push heroku main
 Counting objects: 4, done.

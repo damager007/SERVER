@@ -1,1 +1,1 @@
-web: python Htela.py
+web: python main.py

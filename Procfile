@@ -1,1 +1,1 @@
-web: python DEEPAK.py
+python main.py
